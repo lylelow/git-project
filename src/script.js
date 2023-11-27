@@ -4,6 +4,7 @@ console.log("Something to work...")
 function new_func() {
     console.log("New unread message.")
 }
-function frost(argument) {
+function frost() {
     console.log("Shape shift.")
 }
+console.log(11111111111)
